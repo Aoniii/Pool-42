@@ -1,6 +1,6 @@
 # Pool-42
 
-My pool at 42 Angouleme to January 2022.
+My pool at 42 Angouleme, January 2022.
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clfx9py73000608mpgchk2n2o/stats?cursusId=9&coalitionId=piscine" alt="snourry's 42 stats" /></a>
 
